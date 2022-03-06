@@ -11,3 +11,7 @@
     font-size: 4rem;
     border-radius: 10px;
 }
+
+.card--answered{
+    background: green;
+}

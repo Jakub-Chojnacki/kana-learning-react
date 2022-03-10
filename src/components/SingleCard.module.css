@@ -19,12 +19,12 @@
 }
 
 .card--answered{
-    background-color: green;
+    background-color: hsl(145, 63%, 49%);;
     transition: background-color 0.5s ease-in-out;
 }
 
 .card--wrong{
-    background-color: red;
+    background-color: hsl(5, 90%, 51%);
     transition: background-color 0.5s ease-in-out;
 }
 
